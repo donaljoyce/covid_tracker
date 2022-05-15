@@ -1,0 +1,10 @@
+tr{
+display: flex;
+
+justify-content: space-between;
+
+}
+.table{
+    overflow-y: scroll;
+    height: 500px;
+}
